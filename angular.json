@@ -20,6 +20,7 @@
             "sourceMap": true,
             "outputPath": "dist",
             "index": "src/index.html",
+            "polyfills": "src/polyfills.ts",
             "main": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "extractCss": true,
